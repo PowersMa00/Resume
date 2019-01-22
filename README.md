@@ -12,58 +12,52 @@ GitHub training modules - link photos
 </details>
 
 <br>
-<br>
 
 <details>
 <summary>Linux</summary>
 <h4> Description </h4>
-This is how you dropdown.
+Add linux essentials training description here
 </details>
 
-<br>
 <br>
   
 <details>
 <summary>Power BI</summary>
 <h4> Description </h4>
-This is how you dropdown.
+Add power BI description here
 </details>
   
-<br>
 <br>
   
 <details>
 <summary>PowerShell</summary>
 <h4> Description </h4>
-This is how you dropdown.
+add powershell training description here
 </details>
 
-<br>
 <br>
 
 <details>
 <summary>Amazon Web Services (AWS)</summary>
 <h4> Description </h4>
-This is how you dropdown.
+add aws description here
 </details>
   
-<br>
 <br>
 
 ## Certifications
 <details>
 <summary>CSX Security Fundamentals</summary>
-  <h4>Description</h4>
-This is how you dropdown.
+<h4>Description</h4>
+Security fundamentals description
 </details>
 
-<br>
 <br>
 
 <details>
 <summary>COMPTIA Security +</summary>
   <h4>Description</h4>
-This is how you dropdown.
+Testout studying, book, etc. w/test date
 </details>
 
 <br>
