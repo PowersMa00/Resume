@@ -27,6 +27,8 @@ The modules are listed below:
   </ul>
   
   <h4>Completition Documents:</h4>
+  <img src="Github_1.png" alt="GithubCompletion1">
+  <img src="Github_2.png" alt="GithubCompletion2">
   
 </details>
 
