@@ -8,7 +8,26 @@ Below are different technical skills and certifications that I have worked with 
 <details>
 <summary>GitHub</summary>
 <h4> Description </h4>
-GitHub training modules - link photos
+GitHub training modules on lab.github.com/courses allow for individuals to learn about the different features GitHub has. By completing these training modules, I have gained knowledge on markdown, managing projects in GitHub, and creating GitHub Apps.
+The modules are listed below:
+  <ul>
+    <li>Introduction to GitHub</li>
+    <li>Communicating using Markdown</li>
+    <li>Introduction to HTML</li>
+    <li>GitHub Pages</li>
+    <li>Managing merge conflicts</li>
+    <li>Community Starter Kit</li>
+    <li>Uploading Your Project to GitHub</li>
+    <li>Getting Started with GitHub Apps</li>
+    <li>Migrating Your Repository to GitHub</li>
+    <li>Reviewing Pull Requests</li>
+    <li>Securing Your Workflows</li>
+    <li>Create a Release Based Workflow</li>
+    <li>Introduction to Github</li>
+  </ul>
+  
+  <h4>Completition Documents:</h4>
+  
 </details>
 
 <br>
@@ -62,4 +81,4 @@ Testout studying, book, etc. w/test date
 
 <br>
 
-</details>
+
