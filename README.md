@@ -37,7 +37,8 @@ The modules are listed below:
 <details>
 <summary>Linux</summary>
 <h4> Description </h4>
-Add linux essentials training description here
+Linux Academy's LPI linux essentials course covers all the objectives that are listed by LPI for the linux essentials certification.
+By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.  
 </details>
 
 <br>
