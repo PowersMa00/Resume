@@ -41,7 +41,7 @@ Linux Academy's LPI linux essentials course covers all the objectives that are l
 By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.  
   
   <h4>Completition Documents:</h4>
-  <img src="linuxcert.pdf" alt="Linux Cert">  
+  <img src="linuxCert.jpg" alt="Linux Cert">  
   
 </details>
 
