@@ -25,11 +25,11 @@ The modules are listed below:
     <li>Create a Release Based Workflow</li>
     <li>Introduction to Github</li>
   </ul>
-  
-  <h4>Completition Documents:</h4>
-  <img src="Github_1.jpg" alt="GithubCompletion1">
-  <img src="Github_2.jpg" alt="GithubCompletion2">
-  
+  <details> 
+    <summary>Completition Documents:</summary>
+      <img src="Github_1.jpg" alt="GithubCompletion1">
+      <img src="Github_2.jpg" alt="GithubCompletion2">
+  </details>
 </details>
 
 <br>
@@ -39,10 +39,10 @@ The modules are listed below:
 <h4> Description </h4>
 Linux Academy's LPI linux essentials course covers all the objectives that are listed by LPI for the linux essentials certification.
 By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.  
-  
-  <h4>Completition Documents:</h4>
-  <img src="linuxCert.JPG" alt="Linux Cert">  
-  
+  <details> 
+    <summary>Completition Documents:</summary>
+      <img src="linuxCert.JPG" alt="Linux Cert">  
+  </details>
 </details>
 
 <br>
@@ -51,6 +51,11 @@ By completing this course I have gained knowledge on the history and development
 <summary>Power BI</summary>
 <h4> Description </h4>
 Add power BI description here
+  
+  <details> 
+    <summary>Completition Documents:</summary>
+    <embed src="https://powersma00.github.io/Resume/powerbi_edX.pdf" type="application/pdf" />  
+   </details>
 </details>
   
 <br>
