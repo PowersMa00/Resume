@@ -54,7 +54,10 @@ Add power BI description here
   
   <details> 
     <summary>Completition Documents:</summary>
-    <embed src="https://powersma00.github.io/Resume/powerbi_edX.pdf" type="application/pdf" />  
+    <iframe src=https://powersma00.github.io/Resume/powerbi_edX.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+                                                                                                                                     
+        Resume/powerbi_edX.pdf
+      
    </details>
 </details>
   
