@@ -38,7 +38,8 @@ The modules are listed below:
 <summary>Linux</summary>
 <h4> Description </h4>
 Linux Academy's LPI linux essentials course covers all the objectives that are listed by LPI for the linux essentials certification.
-By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.  
+By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.
+  <br>
   <details> 
     <summary>Completition Documents:</summary>
       <img src="linuxCert.JPG" alt="Linux Cert">  
@@ -50,14 +51,18 @@ By completing this course I have gained knowledge on the history and development
 <details>
 <summary>Power BI</summary>
 <h4> Description </h4>
-Add power BI description here
-  
+The training on edX provided me with skills to work with data from Excel, databases, or text files within Power Bi. I also completed projects for this course that involved importing data, formatting the data, developing a dashboard, and generating reports.
+  <br>
   <details> 
     <summary>Completition Documents:</summary>
-    <iframe src=https://powersma00.github.io/Resume/powerbi_edX.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-                                                                                                                                     
-        Resume/powerbi_edX.pdf
-      
+    <img src="powerbi-1.JPG" alt="PowerBi1">
+    <img src="powerbi1.JPG" alt="PowerBi2">
+    <img src="powerbi2.JPG" alt="PowerBi3">
+    <img src="powerbi3.JPG" alt="PowerBi4">
+    <img src="powerbi4.JPG" alt="PowerBi5">
+    <img src="powerbi5.JPG" alt="PowerBi6">
+    <img src="powerbi6.JPG" alt="PowerBi7">
+    <img src="powerbi7.JPG" alt="PowerBi8">
    </details>
 </details>
   
