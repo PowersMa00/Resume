@@ -39,6 +39,7 @@ The modules are listed below:
 <h4> Description </h4>
 Linux Academy's LPI linux essentials course covers all the objectives that are listed by LPI for the linux essentials certification.
 By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.
+  
   <br>
   <details> 
     <summary>Completition Documents:</summary>
@@ -51,7 +52,8 @@ By completing this course I have gained knowledge on the history and development
 <details>
 <summary>Power BI</summary>
 <h4> Description </h4>
-The training on edX provided me with skills to work with data from Excel, databases, or text files within Power Bi. I also completed projects for this course that involved importing data, formatting the data, developing a dashboard, and generating reports.
+The training on edX provided me with skills to work with data from Excel, databases, or text files within Power BI. I also completed projects for this course that involved importing data, formatting the data, developing a dashboard, and generating reports.
+  
   <br>
   <details> 
     <summary>Completition Documents:</summary>
