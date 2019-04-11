@@ -1,4 +1,4 @@
-# Resume
+# Mallory Powers Resume
 ## Techical Skills and Certifications Resume
 
 Below are different technical skills and certifications that I have worked with and gained knowledge on. A brief description and proof of completion / training can be accessed by clicking the drop-down arrows under each skill heading.
@@ -69,19 +69,16 @@ The training on edX provided me with skills to work with data from Excel, databa
 </details>
   
 <br>
-  
-<details>
-<summary>PowerShell</summary>
-<h4> Description </h4>
-add powershell training description here
-</details>
-
-<br>
 
 <details>
 <summary>Amazon Web Services (AWS)</summary>
 <h4> Description </h4>
 add aws description here
+  <br>
+  <details> 
+    <summary>Completition Documents:</summary>
+    <img src="aws_essentials.JPG" alt="AWS">
+   </details>
 </details>
   
 <br>
