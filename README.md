@@ -85,19 +85,14 @@ This course provided me with an overview of AWS services. It taught me how to cr
 
 ## Certifications
 <details>
-<summary>CSX Security Fundamentals</summary>
+<summary>CSX Cybersecurity Fundamentals</summary>
 <h4>Description</h4>
-Security fundamentals description
+CSX (Cybersecurity Nexus) Cybersecurity Fundamentals exam is a certificate offered by ISACA. It follows the National Insitute of Standards and Technology's guidelines to provide important information regarding global cybersecurity issues, activites, and job roles.
+I will be taking this certification test by May 3rd.
 </details>
 
 <br>
 
-<details>
-<summary>COMPTIA Security +</summary>
-  <h4>Description</h4>
-Testout studying, book, etc. w/test date
-</details>
 
-<br>
 
 
