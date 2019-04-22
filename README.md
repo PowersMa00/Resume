@@ -73,7 +73,7 @@ The training on edX provided me with skills to work with data from Excel, databa
 <details>
 <summary>Amazon Web Services (AWS)</summary>
 <h4> Description </h4>
-add aws description here
+This course provided me with an overview of AWS services. It taught me how to create accounts, manage access, general VPC basics, and much more. 
   <br>
   <details> 
     <summary>Completition Documents:</summary>
