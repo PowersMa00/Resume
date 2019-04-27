@@ -25,7 +25,6 @@ The modules are listed below:
     <li>Create a Release Based Workflow</li>
     <li>Introduction to Github</li>
   </ul>
-  <br>
   <details> 
     <summary>Completition Documents:</summary>
       <img src="Github_1.jpg" alt="GithubCompletion1">
@@ -56,7 +55,6 @@ Skills learned:
     <li>Creating Users and Groups</li>
     <li>Managing File Permissions and Ownership</li>
   </ul>
-  <br>
   <details> 
     <summary>Completition Documents:</summary>
       <img src="linuxCert.JPG" alt="Linux Cert">  
@@ -81,7 +79,6 @@ Skills learned:
     <li>Developer API</li>
     <li>Mobile Applications</li>
   </ul>  
-  <br>
   <details> 
     <summary>Completition Documents:</summary>
     <img src="powerbi-1.JPG" alt="PowerBi1">
@@ -117,7 +114,6 @@ Skills learned:
      <li>Roue 53</li>
      <li>Serverless Compute: Lambda</li>
   </ul>    
-  <br>
   <details> 
     <summary>Completition Documents:</summary>
     <img src="aws_essentials.JPG" alt="AWS">
