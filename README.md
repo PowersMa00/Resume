@@ -69,7 +69,7 @@ Skills learned:
 <summary>Power BI</summary>
 <h4> Description </h4>
 The training on edX provided me with skills to work with data from Excel, databases, or text files within Power BI. I also completed projects for this course that involved importing data, formatting the data, developing a dashboard, and generating reports.
-Power BI Dashboard skills demonstrated and explained: https://www.youtube.com/watch?v=UAdU8c_WWO0&feature=youtu.be
+Power BI Dashboard skills demonstrated and explained: https://www.youtube.com/watch?v=UAdU8c_WWO0&feature=youtu.be <br>
 Skills learned:
    <ul>
     <li>Desktop Data Transformations</li>
