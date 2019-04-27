@@ -25,6 +25,7 @@ The modules are listed below:
     <li>Create a Release Based Workflow</li>
     <li>Introduction to Github</li>
   </ul>
+  <br>
   <details> 
     <summary>Completition Documents:</summary>
       <img src="Github_1.jpg" alt="GithubCompletion1">
@@ -39,7 +40,22 @@ The modules are listed below:
 <h4> Description </h4>
 Linux Academy's LPI linux essentials course covers all the objectives that are listed by LPI for the linux essentials certification.
 By completing this course I have gained knowledge on the history and development of linux, command line basics for linux, and creating users and files.
-  
+Skills learned:
+   <ul>
+    <li>Linux Evolution and Popular Operating Systems</li>
+    <li>How to Access a Linux Installation</li>
+    <li>Understanding Open Source Software and Licensing</li>
+    <li>Command Line Basics</li>
+    <li>Using Directories and Listing Files</li>
+    <li>Archiving Files on the Command Line</li>
+    <li>Searching and Extracting Data from Files</li>
+    <li>Turning Commands into a Script</li>
+    <li>Choosing an Operating System</li>
+    <li>Where Data is Stored</li>
+    <li>Basic Security and Identifying User Types</li>
+    <li>Creating Users and Groups</li>
+    <li>Managing File Permissions and Ownership</li>
+  </ul>
   <br>
   <details> 
     <summary>Completition Documents:</summary>
@@ -53,7 +69,18 @@ By completing this course I have gained knowledge on the history and development
 <summary>Power BI</summary>
 <h4> Description </h4>
 The training on edX provided me with skills to work with data from Excel, databases, or text files within Power BI. I also completed projects for this course that involved importing data, formatting the data, developing a dashboard, and generating reports.
-  
+Power BI Dashboard skills demonstrated and explained: https://www.youtube.com/watch?v=UAdU8c_WWO0&feature=youtu.be
+Skills learned:
+   <ul>
+    <li>Desktop Data Transformations</li>
+    <li>Desktop Modeling</li>
+    <li>Desktop Visualization</li>
+    <li>Power BI Services</li>
+     <li>Working with Excel</li> 
+    <li>Direct Connectivity</li>
+    <li>Developer API</li>
+    <li>Mobile Applications</li>
+  </ul>  
   <br>
   <details> 
     <summary>Completition Documents:</summary>
@@ -74,6 +101,22 @@ The training on edX provided me with skills to work with data from Excel, databa
 <summary>Amazon Web Services (AWS)</summary>
 <h4> Description </h4>
 This course provided me with an overview of AWS services. It taught me how to create accounts, manage access, general VPC basics, and much more. 
+Skills learned:
+   <ul>
+    <li>Account Basics</li>
+    <li>Identity and Access Management (IAM)</li>
+    <li>AWS Network Services</li>
+    <li>Virtual Private Cloud (VPC)</li>
+    <li>Elastic Cloud Compute (EC2)</li> 
+    <li>Storage Services</li>
+    <li>Database Services Overview</li>
+    <li>Simple Notification Service (SNS)</li>
+    <li>Management Tools</li>
+     <li>Elastic Load Balancer (ELB)</li>
+     <li>Auto Scaling</li>
+     <li>Roue 53</li>
+     <li>Serverless Compute: Lambda</li>
+  </ul>    
   <br>
   <details> 
     <summary>Completition Documents:</summary>
